@@ -1,5 +1,5 @@
 ---
-name: openproject-by-altf1be
+name: openproject
 description: "OpenProject CRUD skill — manage work packages, projects, groups, news, users, watchers, relations, notifications, time entries, comments, attachments, wiki pages, statuses, and more via OpenProject API v3 with API token auth. Supports cloud and self-hosted instances."
 homepage: https://github.com/ALT-F1-OpenClaw/openclaw-skill-openproject
 metadata:
